@@ -1,0 +1,10 @@
+com\kafka\consumer\ConsumerDemo$1.class
+com\kafka\consumer\ConsumerRun.class
+com\kafka\consumer\ReadConsumerPropertiesFile.class
+com\kafka\consumer\pojo\Employee.class
+com\kafka\consumer\pojo\EmployeeDetails.class
+com\kafka\consumer\ConsumerDemo.class
+com\kafka\consumer\schemavalidator\JsonSchemaValidators.class
+com\kafka\consumer\pojo\Message.class
+com\kafka\consumer\JasonRead.class
+com\kafka\consumer\JsonToObjectMapper.class
